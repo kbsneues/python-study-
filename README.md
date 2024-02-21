@@ -1,2 +1,4 @@
-# python-study
-군대 : 파이썬 기초 (Udemy 강의 - 경기도 연천 GP 사이버지식정보방 에서 공부)
+<div align="center">
+<h2> 🧑🏻‍💻파이썬 복습🧑🏻‍💻 </h2>
+Replit IDE 를 이용하여 파이썬 기초 공부 하였습니다
+</div>
